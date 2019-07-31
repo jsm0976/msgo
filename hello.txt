@@ -1,0 +1,6 @@
+#include<stdio.h>
+
+int main(){
+	printf("Çì·²µå¼ö¼®±è¹Î°ü");
+	return0;
+}
